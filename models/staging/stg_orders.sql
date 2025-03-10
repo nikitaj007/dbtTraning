@@ -6,6 +6,8 @@
 
 
 select 
+o.PRODUCTID,
+o.CUSTOMERID,
 o.ORDERID ,
 o.ORDERDATE,
 o.SHIPDATE,
